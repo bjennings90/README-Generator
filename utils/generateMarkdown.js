@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
 
 // Function that returns the license link
 function renderLicenseLink(license) {
-  return `(View License)[${license}]`;
+  return `![${license}](https://img.shields.io/badge/MIT-License-blue)`;
 }
 
 // Function that returns the license section of README
@@ -20,7 +20,6 @@ function renderLicenseSection(license) {
 // Function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ${renderLicenseBadge(data.license)}
   ## Description
     ${data.description}
   ## Table of Contents

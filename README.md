@@ -5,6 +5,8 @@
 
 Just having learned Node.js and how interesting I find how it works, I was very excited to start this challenge. I built this project to demonstrate how to create a README app using Node.js in the terminal. In creating this app, I learned how to create html and css in the terminal, how to structure and generate a README file.
 
+Link to Walkthrough Demo Video: https://drive.google.com/file/d/1XbuR7N0fjCJIFjvVqPfut6mXkbJ5ospf/view
+
 ## Installation
 
 To install, clone my repository README-Generator, locally to your computer.
@@ -39,4 +41,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
